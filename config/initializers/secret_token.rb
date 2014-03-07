@@ -9,4 +9,4 @@
 
 # Make sure your secret_key_base is kept private
 # if you're sharing your code publicly.
-Composer::Application.config.secret_key_base = '6c5101a7a7bce7d0661d7a33ecfe53a6a6781244481a281abd3f1de7246451795a3cb9005b6546892baebd8665ac84575cffdf41ef89edea47f901b45e8ff2f9'
+Composer::Application.config.secret_key_base = '46795e6145e9c199d6f521db4c951f265c8459700bd981c6cd21f6adb86ef2a3d2a30b0b073d13b5ffcc7c750c2a7d47bb0515b2832b82e83b117eee74d43fda'
